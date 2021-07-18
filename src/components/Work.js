@@ -52,7 +52,7 @@ function Work() {
                 <div className="col">
                     <Modal
                         img="https://drive.google.com/thumbnail?id=1NVTn5oyhahXhO4Yxwxm4VQ0qIMGiitg4"
-                        title="Pre-IT#26 Starter Pack - Waiting... Loop Video"
+                        title="Pre-IT#26 Starter Pack - Waiting... Looping Video"
                         description="วิดีโอนี้เป็นวิดีโอสำหรับการเปิด Loop ในระหว่างรอรุ่นน้องปี 1 มา โดยผมเป็นคน animate animation ในวิดีโอนี้"
                         url="https://drive.google.com/file/d/1NVTn5oyhahXhO4Yxwxm4VQ0qIMGiitg4/preview"
                     />
