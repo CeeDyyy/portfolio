@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <Navbar />
-      <Banner />
+      <a name="Home"><Banner /></a>
       <a name="AboutMe"><AboutMe /></a>
       <CareerObj />
       <a name="Work"><Work /></a>
