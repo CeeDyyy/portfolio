@@ -1,18 +1,20 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import Navbar from "./components/Navbar"
-import Banner from "./components/Banner"
+import Home from "./components/Home"
 import AboutMe from "./components/AboutMe"
 import CareerObj from "./components/CareerObj";
 import Work from "./components/Work";
+import Contact from "./components/Contact";
 
 function App() {
   return (
     <>
       <Navbar />
-      <a name="Home"><Banner /></a>
+      <a name="Home"><Home /></a>
       <a name="AboutMe"><AboutMe /></a>
       <CareerObj />
       <a name="Work"><Work /></a>
+      <a name="Contact"><Contact /></a>
     </>
 
   );

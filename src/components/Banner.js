@@ -2,8 +2,8 @@ import React from "react";
 import "./Banner.css"
 
 let bannerData = {
-    title: "React landing page",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam velit iure aut delectus sapiente omnis adipisci expedita ipsam, possimus impedit minus vero dolor? Reprehenderit eveniet, minus pariatur aperiam voluptate labore?"
+    title: "Welcome to my Portfolio",
+    desc: "My name is Thanawat Udchachon"
 }
 
 function Banner() {
@@ -17,7 +17,7 @@ function Banner() {
                             <p>
                                 {bannerData.desc}
                             </p>
-                            <a href="#" className="banner-btn">Learn More</a>
+                            <a href="#AboutMe" className="banner-btn">More</a>
                         </div>
                     </div>
                 </div>
