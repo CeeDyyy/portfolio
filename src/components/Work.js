@@ -13,7 +13,7 @@ function Work() {
                     <Modal
                         img="https://img.youtube.com/vi/pxMvtyBELxQ/sddefault.jpg"
                         title="Smart Home - Youth Leadership for Smart Energy in Thailand"
-                        description="This video is an interview of the many students in King Mongkut's University of Technology Thonburi, Creators of a sustainable energy technology which they map them together into a Smart home system. As for my positions in this project, I edited and made all of the motion graphics seen in this video. I've also shot some parts of the interview."
+                        description="This video is an interview of the many students in King Mongkut's University of Technology Thonburi, Creators of a sustainable energy technology which we map them together into a Smart home system. As for my positions in this project, I edited and made all of the motion graphics seen in this video. I've also shot some parts of the interview."
                         url="https://www.youtube-nocookie.com/embed/pxMvtyBELxQ"
                     />
                 </div>
@@ -61,7 +61,7 @@ function Work() {
                     <Modal
                         img="https://drive.google.com/thumbnail?id=1esxfLyYsCwSddI8i7x_gD3LWxa8mxQ0X"
                         title="WebTech Ep.1: Website & HTML | เริ่มต้นเขียนเว็บด้วยการเขียน HTML พื้นฐาน"
-                        description="This video is an instructional video intend to teach and introduce First-year students to writing elementary HTML websites, I've edited and dubbed in some parts of this video."
+                        description="This video is an instructional video intend to teach and introduce first-year students to writing elementary HTML websites, I have edited and dubbed in some parts of this video."
                         url="https://drive.google.com/file/d/1esxfLyYsCwSddI8i7x_gD3LWxa8mxQ0X/preview"
                     />
                 </div>
@@ -69,7 +69,7 @@ function Work() {
                     <Modal
                         img="https://drive.google.com/thumbnail?id=1lXy99hUmLEbsZkhSjgcuMQrPDTUxtXxx"
                         title="WebTech Ep.4: List & Table | รู้จักกับการสร้างรายการและการสร้างตารางด้วย HTML"
-                        description="This video is an instructional video aimed to teach the First-year students about Creating List & Table with HTML, as for I, I've edited and dubbed in some parts of this video."
+                        description="This video is an instructional video aimed to teach the first-year students about Creating List & Table with HTML, I myself edited and dubbed in some parts of this video."
                         url="https://drive.google.com/file/d/1lXy99hUmLEbsZkhSjgcuMQrPDTUxtXxx/preview"
                     />
                 </div>
