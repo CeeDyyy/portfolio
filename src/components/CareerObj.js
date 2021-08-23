@@ -1,5 +1,6 @@
 import React from 'react'
 import "./CareerObj.css"
+import SET from '../Set'
 
 function CareerObj() {
     return (
@@ -11,7 +12,7 @@ function CareerObj() {
                             <h1>CAREER OBJECTIVE</h1>
                             <br />
                             <p>
-                                I am desirous of the position of a Video Editor with an experienced team to expand my learnings, knowledge, and skills to ensure the quality of the work moving forward to utilize those knowledge and skills to be a part of driving Thai gaming industry to the global stage.
+                            {SET.careerObj}
                             </p>
                         </div>
                     </div>

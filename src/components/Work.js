@@ -2,10 +2,11 @@ import React from 'react'
 import "./Work.css"
 import Modal from './Modal'
 import WorkData from '../data/works.json'
+import SET from '../Set'
 
 // const oldest = Object.keys(WorkData).slice(0,5)
 // const newest = Object.keys(WorkData).reverse()
-const items = ["2", "10", "9", "8", "4", "7", "5", "6", "1", "3"]
+const items = SET.sequence
 function Work() {
     return (
         <div className="container">
