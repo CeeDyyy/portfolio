@@ -16,20 +16,22 @@ const Contact = () => {
         }).catch(err => console.log(err));
     }
     return (
-        <div className="contact-style">
+        <div className="contact mt-5">
             <div className="contact-overlay">
-                <div className="container">
+                <div className="container-md">
+                    <h1 className="text-center my-3 pt-3 contact-text">CONTACT</h1>
+                    <hr />
                     <div className="row row-cols-1 row-cols-md-2 g-4">
-                        <div className="col-sm-4 contact-details-overlay">
+                        <div className="col-sm-5 contact-details-overlay">
                             <div className="container">
-                                <div className="contact-text">📞 09-8891-9515</div>
-                                <div className="contact-text">📧 thanawat.ud@mail.kmutt.ac.th</div>
-                                <div className="contact-text">📍 79/355 Pudtan Village, Soi Petchkasem 81, Ma Charoen Road, Nong Khaem Sub-district, Nong Khaem District, Bangkok, 10160</div>
+                                <div className="contact-text"><i className="bi bi-telephone-fill icon-color"></i> 09-8891-9515</div>
+                                <div className="contact-text"><i className="bi bi-envelope-fill icon-color"></i> thanawat.udchachon@gmail.com</div>
+                                <div className="contact-text"><i className="bi bi-geo-alt-fill icon-color"></i> 79/355 Pudtan Village, Soi Petchkasem 81, Ma Charoen Road, Nong Khaem Sub-district, Nong Khaem District, Bangkok, 10160</div>
                             </div>
                         </div>
-                        <div className="col-sm-8">
+                        <div className="col-sm-7">
                             <div className="container">
-                                <h1 className="contact-h1">Contact Me</h1>
+
                                 <form
                                     className="row"
                                     // style={{ margin: "25px 85px 75px 100px" }}

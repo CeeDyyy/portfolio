@@ -23,6 +23,7 @@
     padding-right: 2rem; */
     padding: 0rem 2rem 2rem 2rem;
     text-align: left;
+    color: #393D3F;
 }
 
 @media screen and (max-width: 480px) {

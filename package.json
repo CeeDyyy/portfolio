@@ -1,5 +1,6 @@
 {
-  "name": "portfolio",
+  "homepage": "https://CeeDyyy.github.io/production-portfolio/",
+  "name": "production-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -7,6 +8,7 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "bootstrap": "^5.0.2",
+    "bootstrap-icons": "^1.7.0",
     "emailjs-com": "^3.2.0",
     "ityped": "^1.0.3",
     "react": "^17.0.2",
@@ -14,7 +16,6 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.0.1"
   },
-  "homepage": "http://CeeDyyy.github.io/portfolio/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
