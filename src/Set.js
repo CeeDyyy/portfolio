@@ -6,9 +6,9 @@ const playPrime = {
 }
 
 const borntoDev = {
-    aboutMe: [<br />, "My name is Thanawat Udchachon. I am currently a fourth-year SIT student of KMUTT who interested in technology such as hardware, gadget, coding and video production such as video editing, film, photography."],
+    aboutMe: [<br />, "My name is Thanawat Udchachon. I am currently a fourth-year SIT student of KMUTT who is interested in technology such as hardware, gadget, coding and video production such as video editing, filming, photography."],
     extraTitle: "EXPERIENCE",
-    extraInfo: ["I have 2 years experience working closely with project coordinator and producer in editing videos, mostly interviews videos. I am also a camera operator and create motion graphics in some projects. I usually use Adobe Premiere Pro for editing videos, Adobe After Effects for creating motion graphics."],
+    extraInfo: ["I have 2 years experience working closely with a project coordinator and a producer in editing videos, mostly interviews videos. I am also a camera operator and create motion graphics in some projects. I usually use Adobe Premiere Pro for editing videos, Adobe After Effects for creating motion graphics."],
     sequence: ["5", "6", "2", "10", "9", "8", "4", "7", "1", "3"]
 }
 

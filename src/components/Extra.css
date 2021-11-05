@@ -26,5 +26,10 @@
 .extra-text {
     color: #393D3F;
     text-align: center;
-    margin: 10%;
+}
+
+@media screen and ( min-width: 767px ){
+    .extra-text {
+        margin: 10%;
+    }
 }

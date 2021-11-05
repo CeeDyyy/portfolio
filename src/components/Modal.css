@@ -28,6 +28,17 @@ body.active-modal {
     background: rgba(234,234,234,0.8);
     z-index: 0 !important;
 }
+
+.modal-modal .date {
+    text-align: left;
+    font-weight: 400;
+    font-size: 1.1rem;
+    color: rgba(57, 61, 63, 0.5);
+}
+
+.modal-modal p {
+    text-align: justify;
+}
 /* .modal-content {
     position: absolute;
     top: 40%;

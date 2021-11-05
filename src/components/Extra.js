@@ -12,7 +12,7 @@ function CareerObj() {
                             <h1>{SET.extraTitle}</h1>
                             <br />
                             <p>
-                            {SET.extraInfo}
+                                {SET.extraInfo}
                             </p>
                         </div>
                     </div>

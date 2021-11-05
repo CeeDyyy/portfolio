@@ -21,6 +21,7 @@ function Work() {
                             description={WorkData[key].description}
                             url={WorkData[key].url}
                             img={WorkData[key].img}
+                            date={WorkData[key].date}
                         />
                     </div>
                 ))}
