@@ -5,7 +5,6 @@ import { Modal, ModalHeader, ModalBody } from 'reactstrap';
 
 function WorkModal(props) {
     const [modal, setModal] = useState(false);
-    const [modall, setModall] = useState(false);
 
     const toggleModal = () => {
         setModal(!modal);
